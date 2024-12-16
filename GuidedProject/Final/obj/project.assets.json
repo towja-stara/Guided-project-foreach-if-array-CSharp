@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/marcin/.nuget/packages/": {}
+    "/home/janusz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marcin/PROJECTS/C#/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/Final.csproj",
+      "projectUniqueName": "/home/janusz/Dokumenty/PROJECTS/CsharpProjects/Guided-project-foreach-if-array-CSharp/GuidedProject/Final/Final.csproj",
       "projectName": "Final",
-      "projectPath": "/home/marcin/PROJECTS/C#/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/Final.csproj",
-      "packagesPath": "/home/marcin/.nuget/packages/",
-      "outputPath": "/home/marcin/PROJECTS/C#/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/",
+      "projectPath": "/home/janusz/Dokumenty/PROJECTS/CsharpProjects/Guided-project-foreach-if-array-CSharp/GuidedProject/Final/Final.csproj",
+      "packagesPath": "/home/janusz/.nuget/packages/",
+      "outputPath": "/home/janusz/Dokumenty/PROJECTS/CsharpProjects/Guided-project-foreach-if-array-CSharp/GuidedProject/Final/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/marcin/.nuget/NuGet/NuGet.Config"
+        "/home/janusz/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

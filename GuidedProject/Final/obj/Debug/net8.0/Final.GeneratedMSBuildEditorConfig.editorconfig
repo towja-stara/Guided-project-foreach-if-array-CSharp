@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Final
-build_property.ProjectDir = /home/marcin/PROJECTS/C#/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/
+build_property.ProjectDir = /home/janusz/Dokumenty/PROJECTS/CsharpProjects/Guided-project-foreach-if-array-CSharp/GuidedProject/Final/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
